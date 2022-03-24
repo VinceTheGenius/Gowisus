@@ -1,4 +1,4 @@
-# vince.cafe
+# Gowisus
 
 ## https://gowisus.now.sh/
 
