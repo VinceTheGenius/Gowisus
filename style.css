@@ -87,8 +87,9 @@ TABLE OF CONTENT
   | 1.2 TYPOGRAPHY
   |
   ------------------------------------------------------------*/
-
-  --ui-typography-typeface: "Inter", sans-serif;
+  @import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
+  
+  --ui-typography-typeface: "Nunito", "Inter", sans-serif;
 
   /* FONT SIZE */
 
